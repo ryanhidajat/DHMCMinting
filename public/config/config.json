@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xBC59aaD81E341358212B8413c2D55697e8A96C19",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xBC59aaD81E341358212B8413c2D55697e8A96C19",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 4
+  },
+  "NFT_NAME": "Dapper Horse Meta Clan",
+  "SYMBOL": "DHMC",
+  "MAX_SUPPLY": 512,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+  "SHOW_BACKGROUND": true
+}
